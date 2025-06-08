@@ -1,11 +1,11 @@
 {
-  "name": "Sarkar-MD",
-  "description": "Best Whatsapp bot made by Bandaheali",
+  "name": "❌G҉O҉D҉W҉I҉N҉❌",
+  "description": "Best Whatsapp bot made by Godwin",
   "logo": "https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
   "keywords": [
     "whatsapp bot",
     "automation",
-    "Sarkar-MD"
+    "❌G҉O҉D҉W҉I҉N҉❌"
   ],
   "repository": "",
   "stack": "heroku-24",
@@ -18,17 +18,17 @@
     "MODE": {
       "description": "Enter 'true' for public mode, 'no' for private mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NUMBER": {
       "description": "Enter the owner's phone number with country code (e.g., +1234567890)",
       "required": true,
-      "value": "+923000000000"
+      "value": "+2349012464012"
     },
     "OWNER_NAME": {
       "description": "Enter the owner's name",
       "required": true,
-      "value": "Bandaheali"
+      "value": "❌G҉O҉D҉W҉I҉N҉❌"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter 'true' for autoview status, 'no' to disable",
@@ -38,7 +38,7 @@
     "AUTO_READ": {
       "description": "Enter 'true' for autoread messages, 'no' to disable",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "Enter 'true' for auto typing, 'no' to disable",
@@ -48,12 +48,12 @@
     "AUTO_RECORDING": {
       "description": "Enter 'true' to show recording audio, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter 'true' to show the bot as always online, 'no' to disable",
       "required": false,
-      "value": "no"
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "Enter 'true' to auto-block numbers starting with 212, 'no' to disable",
